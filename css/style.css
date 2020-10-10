@@ -1,0 +1,36 @@
+body {
+    margin: auto;
+    max-width: fit-content;
+    padding-top: 200px;
+}
+
+h1 {
+    font-size: 7rem;
+    margin-bottom: 100px;
+}
+
+.card {
+    border: none;
+}
+
+
+.btn {
+    margin-bottom: 25px;
+    font-size: 3rem;
+    border-radius: 10px;
+    width: 40%;
+}
+
+#adder {
+    margin-right: -70px;
+}
+
+#subtractor {
+    margin-left: -70px;
+}
+
+#inputNum {
+    font-size: 3rem;
+    border-width: 7px;
+    border-radius: 10px;
+}
